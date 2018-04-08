@@ -1,0 +1,13 @@
+.center-title{
+    text-align: center;
+}
+.table-app{
+   color: black;
+}
+.label-danger{
+    color: red;
+    font-size: 0.7em;
+}
+.btn-acciones{
+    border-radius: 50%;
+}
