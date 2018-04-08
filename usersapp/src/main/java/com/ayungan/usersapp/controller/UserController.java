@@ -78,7 +78,7 @@ public class UserController {
 
 	}
 
-	// id
+	// buscar por id
 	@RequestMapping(value = "/IdUser", method = RequestMethod.POST)
 	public QueryResult<User> IdUser(@RequestBody String userJson) {
 		// convierte el string json a una clase
