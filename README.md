@@ -1,4 +1,4 @@
 # app Notices
-```creada con spring boot in backend ```
-``` angularr 5 in front end ```
-``` data base Mysql ```
+ Markup : * ```creada con spring boot in backend ```
+ Markup : * ``` angularr 5 in front end ```
+ Markup : * ``` data base Mysql ```
